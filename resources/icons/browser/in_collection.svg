@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg4"
+   sodipodi:docname="in_collection.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="52"
+   inkscape:cx="11.5"
+   inkscape:cy="11.5"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g1" />
+    <g
+   transform="matrix(1,0,0,1,-95,-351)"
+   id="g3">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,-21.2105,102.842)"
+   id="g2">
+            <rect
+   id="in_collection"
+   x="96"
+   y="205"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="in_collection1"
+   serif:id="in_collection">
+                <g
+   transform="matrix(1.34239,0,0,1.34239,42.4076,-263.391)"
+   id="g1">
+                    <path
+   d="M51,356C51,353.792 49.208,352 47,352C44.792,352 43,353.792 43,356C43,358.208 44.792,360 47,360C49.208,360 51,358.208 51,356Z"
+   style="fill:#96de88;fill-opacity:1"
+   id="path1" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs4">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(4.89859e-16,8,-8,4.89859e-16,47.4444,352)"><stop
+     offset="0"
+     style="stop-color:rgb(114,188,77);stop-opacity:1"
+     id="stop3" /><stop
+     offset="1"
+     style="stop-color:rgb(75,166,29);stop-opacity:0.77"
+     id="stop4" /></linearGradient>
+    </defs>
+</svg>

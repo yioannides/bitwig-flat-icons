@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg7"
+   sodipodi:docname="overlay_folder.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="52"
+   inkscape:cx="11.5"
+   inkscape:cy="11.5"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g4" />
+    <g
+   transform="matrix(1,0,0,1,-191,-226)"
+   id="g6">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,-2.68421,16.5789)"
+   id="g5">
+            <rect
+   id="overlay_folder"
+   x="160"
+   y="173"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="overlay_folder1"
+   serif:id="overlay_folder">
+                <g
+   transform="matrix(0.44058,0,0,0.385507,155.759,166.446)"
+   id="g4">
+                    <path
+   d="M49,52C49,50.895 48.105,50 47,50C45.909,50 44.59,50 43.633,50C42.843,50 42.127,49.535 41.806,48.813C41.715,48.607 41.619,48.393 41.528,48.187C41.207,47.465 40.491,47 39.701,47C38.662,47 37.189,47 36,47C35.47,47 34.961,47.211 34.586,47.586C34.211,47.961 34,48.47 34,49C34,51.871 34,57.129 34,60C34,60.53 34.211,61.039 34.586,61.414C34.961,61.789 35.47,62 36,62L47,62C48.105,62 49,61.105 49,60C49,57.78 49,54.22 49,52Z"
+   style="fill:#ffffff;fill-opacity:1"
+   id="path1" />
+                    <clipPath
+   id="_clip2">
+                        <path
+   d="M49,52C49,50.895 48.105,50 47,50C45.909,50 44.59,50 43.633,50C42.843,50 42.127,49.535 41.806,48.813C41.715,48.607 41.619,48.393 41.528,48.187C41.207,47.465 40.491,47 39.701,47C38.662,47 37.189,47 36,47C35.47,47 34.961,47.211 34.586,47.586C34.211,47.961 34,48.47 34,49C34,51.871 34,57.129 34,60C34,60.53 34.211,61.039 34.586,61.414C34.961,61.789 35.47,62 36,62L47,62C48.105,62 49,61.105 49,60C49,57.78 49,54.22 49,52Z"
+   id="path2" />
+                    </clipPath>
+                    <g
+   clip-path="url(#_clip2)"
+   id="g3">
+                        <path
+   d="M33,51.462L33,50.462L39.181,50.462C39.573,50.462 39.949,50.306 40.226,50.029L42.026,48.229L42.733,48.936L40.933,50.736C40.468,51.201 39.838,51.462 39.181,51.462L33,51.462Z"
+   style="fill-opacity:0.5;"
+   id="path3" />
+                    </g>
+                    <path
+   d="M49.937,52L49.937,60C49.937,61.655 48.655,63.071 47,63.071L36,63.071C35.237,63.071 34.508,62.76 33.968,62.221C33.381,61.633 33.062,60.831 33.062,60L33.063,49C33.062,48.169 33.381,47.367 33.968,46.779C34.508,46.24 35.237,45.929 36,45.929L39.701,45.929C40.859,45.929 41.893,46.643 42.364,47.702L42.642,48.327C42.813,48.713 43.211,48.929 43.633,48.929L47,48.929C48.655,48.929 49.937,50.345 49.937,52ZM49,52C49,50.895 48.105,50 47,50L43.633,50C42.843,50 42.127,49.535 41.806,48.813L41.528,48.187C41.207,47.465 40.491,47 39.701,47L36,47C35.47,47 34.961,47.211 34.586,47.586C34.211,47.961 34,48.47 34,49L34,60C34,60.53 34.211,61.039 34.586,61.414C34.961,61.789 35.47,62 36,62L47,62C48.105,62 49,61.105 49,60L49,52Z"
+   id="path4" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs7">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(8.03674e-16,15,-11.4844,8.03674e-16,37.75,47)"><stop
+     offset="0"
+     style="stop-color:#ffffff;stop-opacity:1;"
+     id="stop6" /><stop
+     offset="1"
+     style="stop-color:rgb(179,179,179);stop-opacity:1"
+     id="stop7" /></linearGradient>
+    </defs>
+</svg>

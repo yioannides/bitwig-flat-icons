@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg7"
+   sodipodi:docname="overlay_grid_preset.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="52"
+   inkscape:cx="11.5"
+   inkscape:cy="11.5"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g4" />
+    <g
+   transform="matrix(1,0,0,1,-287,-226)"
+   id="g6">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,93.3158,16.5789)"
+   id="g5">
+            <rect
+   id="overlay_grid_preset"
+   x="160"
+   y="173"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="overlay_grid_preset1"
+   serif:id="overlay_grid_preset">
+                <g
+   transform="matrix(0.826087,0,0,0.826087,-77.087,-13.6957)"
+   id="g4">
+                    <path
+   d="M301,241L301,240L302,240L302,239L306,239L306,240L307,240L307,241L308,241L308,245L307,245L307,246L306,246L306,247L302,247L302,246L301,246L301,245L300,245L300,241L301,241Z"
+   style="fill:#ffffff;fill-opacity:1"
+   id="path1" />
+                    <clipPath
+   id="_clip2">
+                        <path
+   d="M301,241L301,240L302,240L302,239L306,239L306,240L307,240L307,241L308,241L308,245L307,245L307,246L306,246L306,247L302,247L302,246L301,246L301,245L300,245L300,241L301,241Z"
+   id="path2" />
+                    </clipPath>
+                    <g
+   clip-path="url(#_clip2)"
+   id="g3">
+                        <path
+   d="M306,241L306,244L303,244L303,245L302,245L302,241L306,241ZM303,243L305,243L305,242L303,242L303,243Z"
+   id="path3" />
+                    </g>
+                    <path
+   d="M300.5,240.5L300.5,240C300.5,239.724 300.724,239.5 301,239.5L301.5,239.5L301.5,239C301.5,238.724 301.724,238.5 302,238.5L306,238.5C306.276,238.5 306.5,238.724 306.5,239L306.5,239.5L307,239.5C307.276,239.5 307.5,239.724 307.5,240L307.5,240.5L308,240.5C308.276,240.5 308.5,240.724 308.5,241L308.5,245C308.5,245.276 308.276,245.5 308,245.5L307.5,245.5L307.5,246C307.5,246.276 307.276,246.5 307,246.5L306.5,246.5L306.5,247C306.5,247.276 306.276,247.5 306,247.5L302,247.5C301.724,247.5 301.5,247.276 301.5,247L301.5,246.5L301,246.5C300.724,246.5 300.5,246.276 300.5,246L300.5,245.5L300,245.5C299.724,245.5 299.5,245.276 299.5,245L299.5,241C299.5,240.724 299.724,240.5 300,240.5L300.5,240.5ZM301,241L300,241L300,245L301,245L301,246L302,246L302,247L306,247L306,246L307,246L307,245L308,245L308,241L307,241L307,240L306,240L306,239L302,239L302,240L301,240L301,241Z"
+   id="path4" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs7">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(3.2147e-16,8,-4.59375,4.28626e-16,303.5,239)"><stop
+     offset="0"
+     style="stop-color:rgb(229,229,229);stop-opacity:1"
+     id="stop6" /><stop
+     offset="1"
+     style="stop-color:rgb(179,179,179);stop-opacity:1"
+     id="stop7" /></linearGradient>
+    </defs>
+</svg>

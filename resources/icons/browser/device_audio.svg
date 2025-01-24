@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg13"
+   sodipodi:docname="device_audio.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="36.769553"
+   inkscape:cx="10.144263"
+   inkscape:cy="12.537547"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Audio-FX1" />
+    <g
+   transform="matrix(1,0,0,1,-31,-130)"
+   id="g10">
+        <g
+   id="device_audio"
+   transform="matrix(1.21053,0,0,1.21053,31,36.7895)">
+            <rect
+   x="0"
+   y="77"
+   width="19"
+   height="19"
+   style="fill:none;"
+   id="rect1" />
+            <g
+   id="Audio-FX"
+   serif:id="Audio FX"
+   transform="matrix(0.936232,0,0,0.936232,-29.3536,35.4754)">
+                <g
+   id="Audio-FX1"
+   serif:id="Audio FX">
+                    <path
+   id="Audio-FX2"
+   style="display:inline;fill:#ff704c;fill-opacity:1"
+   d="M 35.764663 46.558497 C 34.546663 46.558497 33.558788 47.546373 33.558788 48.764373 L 33.558788 60.234925 C 33.558788 61.452925 34.546663 62.4408 35.764663 62.4408 L 47.235215 62.4408 C 48.453215 62.4408 49.441091 61.452925 49.441091 60.234925 L 49.441091 48.764373 C 49.441091 47.546373 48.453215 46.558497 47.235215 46.558497 L 35.764663 46.558497 z " />
+                    <clipPath
+   id="_clip2">
+                        <path
+   id="Audio-FX3"
+   serif:id="Audio FX"
+   d="M49,48.765C49,47.791 48.209,47 47.235,47L35.765,47C34.791,47 34,47.791 34,48.765L34,60.235C34,61.209 34.791,62 35.765,62L47.235,62C48.209,62 49,61.209 49,60.235L49,48.765Z" />
+                    </clipPath>
+                    <g
+   clip-path="url(#_clip2)"
+   id="g9">
+                        <g
+   id="Pedal"
+   transform="matrix(0.0418043,0,0,0.0422155,9.37343,43.7518)">
+                            <g
+   transform="matrix(1.93838,0,0,2.32686,-2051.84,-49.9827)"
+   id="g2">
+                                <path
+   d="M1504,73.51C1504,67.709 1498.29,63 1491.26,63L1418.74,63C1411.71,63 1406,67.709 1406,73.51L1406,189.49C1406,195.291 1411.71,200 1418.74,200L1491.26,200C1498.29,200 1504,195.291 1504,189.49L1504,73.51Z"
+   style="fill:rgb(237,165,143);fill-opacity:0.46;"
+   id="path1" />
+                                <path
+   d="M1504,73.51L1504,189.49C1504,195.291 1498.29,200 1491.26,200L1418.74,200C1411.71,200 1406,195.291 1406,189.49L1406,73.51C1406,67.709 1411.71,63 1418.74,63L1491.26,63C1498.29,63 1504,67.709 1504,73.51ZM1496.92,73.51C1496.92,70.932 1494.38,68.839 1491.26,68.839L1418.74,68.839C1415.62,68.839 1413.08,70.932 1413.08,73.51L1413.08,189.49C1413.08,192.068 1415.62,194.161 1418.74,194.161L1491.26,194.161C1494.38,194.161 1496.92,192.068 1496.92,189.49L1496.92,73.51Z"
+   id="path2" />
+                            </g>
+                            <g
+   transform="matrix(0.263971,0,0,0.321168,281.27,194.541)"
+   id="g3">
+                                <path
+   d="M1489.46,63L1461.3,63C1430.76,63 1406,84.201 1406,110.354C1406,124.035 1406,138.965 1406,152.646C1406,178.799 1430.76,200 1461.3,200C1483.53,200 1484.74,199.39 1484.74,199.39"
+   id="path3" />
+                            </g>
+                            <g
+   transform="matrix(-0.263971,0,0,0.321168,1255.73,194.541)"
+   id="g4">
+                                <path
+   d="M1489.46,63L1461.3,63C1430.76,63 1406,84.201 1406,110.354C1406,124.035 1406,138.965 1406,152.646C1406,178.799 1430.76,200 1461.3,200C1483.53,200 1484.74,199.39 1484.74,199.39"
+   id="path4" />
+                            </g>
+                            <g
+   transform="matrix(26.8735,0,0,20.9012,-373.623,-2723.81)"
+   id="g5">
+                                <rect
+   x="39"
+   y="139"
+   width="7"
+   height="2"
+   style="fill:url(#_Linear3);"
+   id="rect4" />
+                            </g>
+                            <g
+   transform="matrix(1.53251,0,0,0.617586,-1461.31,268.358)"
+   id="g6">
+                                <path
+   d="M1504,85.876C1504,73.251 1499.83,63 1494.69,63L1415.31,63C1410.17,63 1406,73.251 1406,85.876L1406,177.124C1406,189.749 1410.17,200 1415.31,200L1494.69,200C1499.83,200 1504,189.749 1504,177.124L1504,85.876Z"
+   style="fill-opacity:0.7;"
+   id="path5" />
+                            </g>
+                            <g
+   transform="matrix(1.11886,0,0,1.11668,-894.465,67.1219)"
+   id="g7">
+                                <circle
+   cx="1458"
+   cy="83"
+   r="14"
+   id="circle6" />
+                                <path
+   d="M1458,59.641C1470.91,59.641 1481.43,70.088 1481.43,83C1481.43,95.912 1470.91,106.359 1458,106.359C1445.09,106.359 1434.57,95.912 1434.57,83C1434.57,70.088 1445.09,59.641 1458,59.641ZM1458,69C1450.27,69 1444,75.273 1444,83C1444,90.727 1450.27,97 1458,97C1465.73,97 1472,90.727 1472,83C1472,75.273 1465.73,69 1458,69Z"
+   id="path6" />
+                            </g>
+                            <g
+   transform="matrix(1.11886,0,0,1.11668,-831.144,67.1219)"
+   id="g8">
+                                <circle
+   cx="1458"
+   cy="83"
+   r="14"
+   id="circle7" />
+                                <path
+   d="M1458,59.641C1470.91,59.641 1481.43,70.088 1481.43,83C1481.43,95.912 1470.91,106.359 1458,106.359C1445.09,106.359 1434.57,95.912 1434.57,83C1434.57,70.088 1445.09,59.641 1458,59.641ZM1458,69C1450.27,69 1444,75.273 1444,83C1444,90.727 1450.27,97 1458,97C1465.73,97 1472,90.727 1472,83C1472,75.273 1465.73,69 1458,69Z"
+   id="path7" />
+                            </g>
+                        </g>
+                    </g>
+                    
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs13">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0,-15,14.8829,0,41.5,62)"><stop
+     offset="0"
+     style="stop-color:rgb(198,75,38);stop-opacity:1"
+     id="stop10" /><stop
+     offset="1"
+     style="stop-color:rgb(255,113,70);stop-opacity:1"
+     id="stop11" /></linearGradient>
+        <linearGradient
+   id="_Linear3"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(9.61853e-17,2,-1.57083,1.22465e-16,42.8927,139)"><stop
+     offset="0"
+     style="stop-color:black;stop-opacity:0"
+     id="stop12" /><stop
+     offset="1"
+     style="stop-color:black;stop-opacity:0.42"
+     id="stop13" /></linearGradient>
+    <linearGradient
+   id="_Linear1-6"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(9.11314e-16,-15,14.8829,9.18485e-16,41.5,62)"><stop
+     offset="0"
+     style="stop-color:rgb(198,75,38);stop-opacity:1"
+     id="stop10-9" /><stop
+     offset="1"
+     style="stop-color:rgb(255,113,70);stop-opacity:1"
+     id="stop11-3" /></linearGradient></defs>
+</svg>

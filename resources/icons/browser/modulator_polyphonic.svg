@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg5"
+   sodipodi:docname="modulator_polyphonic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="26"
+   inkscape:cx="2.2307692"
+   inkscape:cy="10.615385"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g2" />
+    <g
+   transform="matrix(1,0,0,1,-63,-290)"
+   id="g4">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,24.2632,3.10526)"
+   id="g3">
+            <rect
+   id="modulator_polyphonic"
+   x="32"
+   y="237"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="modulator_polyphonic1"
+   serif:id="modulator_polyphonic">
+                <g
+   transform="matrix(0.936232,0,0,0.936232,2.64638,195.475)"
+   id="g2">
+                    <path
+   id="path1"
+   style="fill:#6ddfa9;fill-opacity:1"
+   d="M 35.764543 46.55843 C 35.179543 46.55843 34.618921 46.790683 34.204921 47.204683 C 33.790921 47.618683 33.558668 48.179306 33.558668 48.764306 L 33.558668 60.234858 C 33.558668 60.819858 33.790921 61.38048 34.204921 61.79448 C 34.618921 62.20848 35.179543 62.440733 35.764543 62.440733 L 47.235095 62.440733 C 47.820095 62.440733 48.380718 62.20848 48.794718 61.79448 C 49.208718 61.38048 49.440971 60.819858 49.440971 60.234858 L 49.440971 48.764306 C 49.440971 48.179306 49.208718 47.618683 48.794718 47.204683 C 48.380718 46.790683 47.820095 46.55843 47.235095 46.55843 L 35.764543 46.55843 z " />
+                    
+                </g>
+                <g
+   id="path6"
+   transform="matrix(0.470344,0,0,0.470344,37.3123,242.032)">
+                    <path
+   d="M13.7,8.7L13.7,5.6L18.3,9.5L13.7,13.4L13.7,10.3L7.95,10.3C7.71,12 6.26,13 4.5,13C2.57,13 1,11.439 1,9.5C1,7.57 2.57,6 4.5,6C6.26,6 7.71,7.01 7.95,8.7L13.7,8.7Z"
+   style="fill-rule:nonzero;"
+   id="path3" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs5">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(9.18485e-16,15,-15,9.18485e-16,40.1765,47)"><stop
+     offset="0"
+     style="stop-color:rgb(87,239,171);stop-opacity:1"
+     id="stop4" /><stop
+     offset="1"
+     style="stop-color:rgb(0,191,105);stop-opacity:1"
+     id="stop5" /></linearGradient>
+    </defs>
+</svg>
