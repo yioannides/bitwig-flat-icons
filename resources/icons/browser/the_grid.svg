@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg5"
+   sodipodi:docname="the_grid.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="52"
+   inkscape:cx="13.788462"
+   inkscape:cy="14.980769"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g2" />
+    <g
+   transform="matrix(1,0,0,1,-159,-226)"
+   id="g4">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,4.05263,16.5789)"
+   id="g3">
+            <rect
+   id="the_grid"
+   x="128"
+   y="173"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="the_grid1"
+   serif:id="the_grid">
+                <g
+   transform="matrix(1.1761,0,0,1.15652,25.4837,-30.5478)"
+   id="g2">
+                    <path
+   d="M99.107,188.857L99.107,191L97,191L97,188.857L99.107,188.857ZM101.917,188.857L101.917,191L99.81,191L99.81,188.857L101.917,188.857ZM99.107,186L99.107,188.143L97,188.143L97,186L99.107,186ZM101.917,186L101.917,188.143L99.81,188.143L99.81,186L101.917,186Z"
+   style="fill:#ffffff;fill-opacity:1"
+   id="path1" />
+                    <path
+   d="M99.458,186L99.81,185.643L101.917,185.643L102.268,186L102.268,188.143L101.917,188.5L102.268,188.857L102.268,191L101.917,191.357L99.81,191.357L99.458,191L99.107,191.357L97,191.357L96.649,191L96.649,188.857L97,188.5L96.649,188.143L96.649,186L97,185.643L99.107,185.643L99.458,186ZM99.107,188.5L99.458,188.857L99.81,188.5L99.458,188.143L99.107,188.5ZM101.917,186L99.81,186L99.81,188.143L101.917,188.143L101.917,186ZM99.107,186L97,186L97,188.143L99.107,188.143L99.107,186ZM99.107,188.857L97,188.857L97,191L99.107,191L99.107,188.857ZM101.917,188.857L99.81,188.857L99.81,191L101.917,191L101.917,188.857Z"
+   id="path2" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs5">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(3.01066e-16,5,-4.91677,3.06162e-16,98.4048,186)"><stop
+     offset="0"
+     style="stop-color:rgb(229,229,229);stop-opacity:1"
+     id="stop4" /><stop
+     offset="1"
+     style="stop-color:rgb(179,179,179);stop-opacity:1"
+     id="stop5" /></linearGradient>
+    </defs>
+</svg>

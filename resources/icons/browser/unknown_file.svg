@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 19 19"
+   height="19"
+   viewBox="0 0 19 19"
+   width="19"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="unknown_file.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,1,1,0,2.0841317,0,1 @ F,0,1,1,0,2.0841317,0,1 @ F,0,0,1,0,2.0841317,0,1 @ F,0,1,1,0,2.0841317,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,1,1,0,1.6347996,0,1 @ F,0,1,1,0,1.6347996,0,1 @ F,0,0,1,0,1.6347996,0,1 @ F,0,1,1,0,1.6347996,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,1,1,0,1.387667,0,1 @ F,0,1,1,0,1.387667,0,1 @ F,0,0,1,0,1.387667,0,1 @ F,0,1,1,0,1.387667,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="44.510511"
+     inkscape:cx="9.4584401"
+     inkscape:cy="9.3685736"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="9.4995"
+     x2="9.4995"
+     y1="2.5"
+     y2="17.5005">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop1" />
+    <stop
+       offset="1"
+       id="stop2" />
+  </linearGradient>
+  <path
+     d="M 4.0841317,2 H 14.915868 A 2.0841317,2.0841317 45 0 1 17,4.0841317 V 14.915868 A 2.0841317,2.0841317 135 0 1 14.915868,17 H 4.0841317 A 2.0841317,2.0841317 45 0 1 2,14.915868 V 4.0841317 A 2.0841317,2.0841317 135 0 1 4.0841317,2 Z"
+     fill="url(#a)"
+     opacity=".15"
+     id="path3"
+     style="opacity:1;fill:#676767;fill-opacity:1"
+     inkscape:path-effect="#path-effect3"
+     inkscape:original-d="M 2,2 H 17 V 17 H 2 Z" />
+  <path
+     d="m9.141 10.361c0-.58.38-.799.64-.93l.8-.41c.16-.09.45-.279.45-.698v-.511c0-.549-.34-.869-1.22-.869-.891 0-1.219.32-1.219.869v.431c0 .14-.051.2-.182.2h-.578c-.141 0-.189-.061-.189-.2v-.58c0-.82.5-1.539 2.169-1.539s2.178.719 2.188 1.539v.629c0 .86-.521 1.239-.869 1.409l-.551.26c-.25.12-.459.27-.459.641v.5c0 .14-.051.188-.181.188h-.619c-.13 0-.181-.05-.181-.188v-.741zm.98 2.45c0 .14-.051.189-.181.189h-.619c-.13 0-.181-.05-.181-.189v-.8c0-.13.051-.19.181-.19h.619c.13 0 .181.062.181.19z"
+     fill="#999"
+     id="path5"
+     style="fill:#ffffff;fill-opacity:1" />
+</svg>
