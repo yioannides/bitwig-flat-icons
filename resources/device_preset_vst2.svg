@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg17"
+   sodipodi:docname="device_preset_vst2.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview17"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="52"
+   inkscape:cx="11.5"
+   inkscape:cy="11.5"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g10" />
+    <g
+   transform="matrix(1,0,0,1,-319,-290)"
+   id="g12">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,-29.6316,3.10526)"
+   id="g11">
+            <rect
+   id="device_preset_vst2"
+   x="288"
+   y="237"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="device_preset_vst21"
+   serif:id="device_preset_vst2">
+                <g
+   transform="matrix(0.936232,0,0,0.928922,258.646,195.874)"
+   id="g6">
+                    <g
+   id="g5">
+                        <path
+   d="M49,48.779C49,47.797 48.209,47 47.235,47L35.765,47C34.791,47 34,47.797 34,48.779L34,60.221C34,61.203 34.791,62 35.765,62L47.235,62C48.209,62 49,61.203 49,60.221L49,48.779Z"
+   style="fill:#ffffff;fill-opacity:1"
+   id="path1" />
+                        <clipPath
+   id="_clip2">
+                            <path
+   d="M49,48.779C49,47.797 48.209,47 47.235,47L35.765,47C34.791,47 34,47.797 34,48.779L34,60.221C34,61.203 34.791,62 35.765,62L47.235,62C48.209,62 49,61.203 49,60.221L49,48.779Z"
+   id="path2" />
+                        </clipPath>
+                        <g
+   clip-path="url(#_clip2)"
+   id="g4">
+                            <g
+   transform="matrix(0.882353,0,0,0.889296,-193.647,-71.2764)"
+   id="g3">
+                                <path
+   d="M274,135C274,134.448 273.552,134 273,134L260,134C259.448,134 259,134.448 259,135L259,148C259,148.552 259.448,149 260,149L273,149C273.552,149 274,148.552 274,148L274,135Z"
+   id="path3" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g
+   transform="matrix(1.51449,0,0,2.52415,-156.848,98.837)"
+   id="g7"
+   style="fill:#ffffff;fill-opacity:1">
+                    <path
+   d="M299,60L298,60L299,57L300,57C299.667,58 299.333,59 299,60ZM301,60L300,60L301,57L302,57C301.667,58 301.333,59 301,60Z"
+   style="fill:#ffffff;fill-rule:nonzero;fill-opacity:1"
+   id="path6" />
+                </g>
+                <g
+   transform="matrix(0.826087,0,0,0.826087,217.783,61.0435)"
+   id="g10">
+                    <circle
+   cx="102"
+   cy="230"
+   r="4"
+   style="fill:#ffffff;fill-opacity:1"
+   id="circle7" />
+                    <clipPath
+   id="_clip5">
+                        <circle
+   cx="102"
+   cy="230"
+   r="4"
+   id="circle8" />
+                    </clipPath>
+                    <g
+   clip-path="url(#_clip5)"
+   id="g9">
+                        <g
+   transform="matrix(1,0,0,1,-107,20)"
+   id="g8">
+                            <path
+   d="M209.559,208C209.941,208 210.308,208.152 210.578,208.422C210.848,208.692 211,209.059 211,209.441C211,209.48 211,209.52 211,209.559C211,210.355 210.355,211 209.559,211L208,211L208,211.812C208,211.862 207.98,211.91 207.945,211.945C207.91,211.98 207.862,212 207.812,212L207.17,212C207.125,212 207.082,211.982 207.05,211.95C207.018,211.918 207,211.875 207,211.83C207,211.236 207,209.237 207,208.388C207,208.285 207.041,208.186 207.113,208.113C207.186,208.041 207.285,208 207.388,208C207.887,208 208.784,208 209.559,208ZM208.135,209C208.06,209 208,209.06 208,209.135C208,209.407 208,210 208,210L209.587,210C209.815,210 210,209.815 210,209.587C210,209.529 210,209.471 210,209.413C210,209.185 209.815,209 209.587,209C209.132,209 208.427,209 208.135,209Z"
+   id="path8" />
+                        </g>
+                    </g>
+                    <path
+   d="M102,225.5C104.484,225.5 106.5,227.516 106.5,230C106.5,232.484 104.484,234.5 102,234.5C99.516,234.5 97.5,232.484 97.5,230C97.5,227.516 99.516,225.5 102,225.5ZM102,226C99.792,226 98,227.792 98,230C98,232.208 99.792,234 102,234C104.208,234 106,232.208 106,230C106,227.792 104.208,226 102,226Z"
+   id="path9" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs17">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(7.57982e-15,-15,15,7.57982e-15,41.5,62)"><stop
+     offset="0"
+     style="stop-color:rgb(148,125,101);stop-opacity:1"
+     id="stop12" /><stop
+     offset="1"
+     style="stop-color:rgb(147,167,189);stop-opacity:1"
+     id="stop13" /></linearGradient>
+        <linearGradient
+   id="_Linear3"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(2.02129e-15,-3,4,1.51596e-15,300,60)"><stop
+     offset="0"
+     style="stop-color:rgb(148,125,101);stop-opacity:1"
+     id="stop14" /><stop
+     offset="1"
+     style="stop-color:rgb(147,167,189);stop-opacity:1"
+     id="stop15" /></linearGradient>
+        <linearGradient
+   id="_Linear4"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(3.2147e-16,8,-4.59375,4.28626e-16,101.5,226)"><stop
+     offset="0"
+     style="stop-color:rgb(229,229,229);stop-opacity:1"
+     id="stop16" /><stop
+     offset="1"
+     style="stop-color:rgb(179,179,179);stop-opacity:1"
+     id="stop17" /></linearGradient>
+    </defs>
+</svg>

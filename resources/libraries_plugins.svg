@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 19 19"
+   height="19"
+   viewBox="0 0 19 19"
+   width="19"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="libraries_plugins.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="31.473684"
+     inkscape:cx="9.2458194"
+     inkscape:cy="7.4665552"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <linearGradient
+     id="a"
+     gradientTransform="matrix(.86666667 0 0 .76923077 -500.4 -629.38462)"
+     gradientUnits="userSpaceOnUse"
+     x1="589.5"
+     x2="589.5"
+     y1="826.4336"
+     y2="839.4336">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop1" />
+    <stop
+       offset="1"
+       id="stop2" />
+  </linearGradient>
+  <path
+     d="m2 4h13v10.0625h-13z"
+     fill="#819262"
+     id="path3" />
+  <path
+     d="m3 5h13v10h-13z"
+     opacity=".3"
+     id="path4" />
+  <path
+     d="m3 5h13v10.0625h-13z"
+     fill="#97ac76"
+     id="path5" />
+  <path
+     d="m4 6h13v10.0625h-13z"
+     fill="#c7d6a9"
+     id="path6" />
+  <g
+     fill="#7a9450"
+     transform="matrix(.6 0 0 1 6.4 3)"
+     id="g9">
+    <path
+       d="m11 4h5v2h-5z"
+       id="path7" />
+    <path
+       d="m12 7h4v2h-4z"
+       id="path8" />
+    <path
+       d="m11 10h5v2h-5z"
+       id="path9" />
+  </g>
+  <path
+     d="m12.334745 10.169491v-1h-1.749999v-.75h-1.7500002c-1 0-2 1-2 2h-1.75v1h1.75c0 1 1 2.000001 2 2.000001h1.7500002v-.750001h1.749999v-1h-1.749999v-1.5z"
+     fill="#93441b"
+     id="path10" />
+</svg>

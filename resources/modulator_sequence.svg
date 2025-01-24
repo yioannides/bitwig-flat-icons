@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg11"
+   sodipodi:docname="modulator_sequence.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="36.769553"
+   inkscape:cx="11.966422"
+   inkscape:cy="17.160937"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg11" />
+    <g
+   transform="matrix(1,0,0,1,-223,-258)"
+   id="g10">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,-9.42105,9.84211)"
+   id="g9">
+            <rect
+   id="modulator_sequence"
+   x="192"
+   y="205"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="modulator_sequence1"
+   serif:id="modulator_sequence">
+                <g
+   transform="matrix(0.936232,0,0,0.936232,192.606,-16.2812)"
+   id="g2">
+                    <g
+   id="Modulator-Shape"
+   serif:id="Modulator Shape">
+                        <g
+   id="Modulator-Shape1"
+   serif:id="Modulator Shape">
+                            <path
+   id="path1"
+   style="fill:#5381e0;fill-opacity:1"
+   d="M 3.7655721 238.55816 C 3.1805721 238.55816 2.618226 238.79041 2.204226 239.20441 C 1.790226 239.61841 1.5596968 240.18076 1.5596968 240.76576 L 1.5596968 252.23459 C 1.5596968 252.81959 1.790226 253.38021 2.204226 253.79421 C 2.618226 254.20821 3.1805721 254.44046 3.7655721 254.44046 L 15.234401 254.44046 C 15.819401 254.44046 16.381747 254.20821 16.795747 253.79421 C 17.209747 253.38021 17.440276 252.81959 17.440276 252.23459 L 17.440276 240.76576 C 17.440276 240.18076 17.209747 239.61841 16.795747 239.20441 C 16.381747 238.79041 15.819401 238.55816 15.234401 238.55816 L 3.7655721 238.55816 z " />
+                            
+                        </g>
+                    </g>
+                </g>
+                <g
+   transform="matrix(0.619565,0,0,0.826087,75.3152,37.3043)"
+   id="g3">
+                    <rect
+   x="195"
+   y="208"
+   width="4"
+   height="13"
+   style="fill-opacity:0.23;"
+   id="rect2" />
+                    
+                </g>
+                <g
+   transform="matrix(0.619565,0,0,0.190635,75.3152,177.739)"
+   id="g4">
+                    <rect
+   x="195"
+   y="208"
+   width="4"
+   height="13"
+   id="rect3" />
+                    <path
+   d="m 199,208 v 13 h -4 v -13 z"
+   id="path4"
+   sodipodi:nodetypes="ccccc" />
+                </g>
+                <g
+   transform="matrix(0.619565,0,0,0.826087,79.4457,37.3043)"
+   id="g5">
+                    <rect
+   x="195"
+   y="208"
+   width="4"
+   height="13"
+   style="fill-opacity:0.23;"
+   id="rect4" />
+                    
+                </g>
+                <g
+   transform="matrix(0.619565,0,0,0.571906,79.4457,93.4783)"
+   id="g6">
+                    <rect
+   x="195"
+   y="208"
+   width="4"
+   height="13"
+   id="rect5" />
+                    <path
+   d="M199,208L199,221L195,221L195,208L199,208ZM197.667,209.444L196.333,209.444L196.333,219.556L197.667,219.556L197.667,209.444Z"
+   id="path6" />
+                </g>
+                <g
+   transform="matrix(0.619565,0,0,0.826087,83.5761,37.3043)"
+   id="g7">
+                    <rect
+   x="195"
+   y="208"
+   width="4"
+   height="13"
+   style="fill-opacity:0.23;"
+   id="rect6" />
+                    
+                </g>
+                <g
+   transform="matrix(0.619565,0,0,0.444816,83.5761,121.565)"
+   id="g8">
+                    <rect
+   x="195"
+   y="208"
+   width="4"
+   height="13"
+   id="rect7" />
+                    <path
+   d="M199,208L199,221L195,221L195,208L199,208ZM197.667,209.857L196.333,209.857L196.333,219.143L197.667,219.143L197.667,209.857Z"
+   id="path8" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs
+   id="defs11">
+        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(6.17647,8.82353,-8.82353,6.17647,6.41176,242.529)"><stop
+     offset="0"
+     style="stop-color:rgb(127,216,241);stop-opacity:1"
+     id="stop10" /><stop
+     offset="1"
+     style="stop-color:rgb(38,163,191);stop-opacity:1"
+     id="stop11" /></linearGradient>
+    <linearGradient
+   id="_Linear1-3"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(9.18485e-16,15,-15,9.18485e-16,41.5,47)"><stop
+     offset="0"
+     style="stop-color:rgb(114,211,244);stop-opacity:1"
+     id="stop5-5" /><stop
+     offset="1"
+     style="stop-color:rgb(21,161,208);stop-opacity:1"
+     id="stop6-9" /></linearGradient></defs>
+</svg>

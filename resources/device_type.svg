@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23px"
+   height="23px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg5"
+   sodipodi:docname="device_type.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs5" /><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="52"
+   inkscape:cx="11.5"
+   inkscape:cy="11.5"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g2" />
+    <g
+   transform="matrix(1,0,0,1,-159,-66)"
+   id="g5">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,4.05263,50.2632)"
+   id="g4">
+            <rect
+   id="device_type"
+   x="128"
+   y="13"
+   width="19"
+   height="19"
+   style="fill:none;" />
+            <g
+   id="device_type1"
+   serif:id="device_type">
+                <g
+   transform="matrix(0.936232,0,0,0.936232,98.6464,-28.5246)"
+   id="g2">
+                    <path
+   d="M49,48.765C49,47.791 48.209,47 47.235,47L35.765,47C34.791,47 34,47.791 34,48.765L34,60.235C34,61.209 34.791,62 35.765,62L47.235,62C48.209,62 49,61.209 49,60.235L49,48.765Z"
+   id="path1" />
+                    <path
+   d="M49,48.765L49,60.235C49,61.209 48.209,62 47.235,62L35.765,62C34.791,62 34,61.209 34,60.235L34,48.765C34,47.791 34.791,47 35.765,47L47.235,47C48.209,47 49,47.791 49,48.765ZM48.118,48.765C48.118,48.278 47.722,47.882 47.235,47.882L35.765,47.882C35.278,47.882 34.882,48.278 34.882,48.765L34.882,60.235C34.882,60.722 35.278,61.118 35.765,61.118L47.235,61.118C47.722,61.118 48.118,60.722 48.118,60.235L48.118,48.765Z"
+   style="fill:#ffffff;fill-opacity:1"
+   id="path2" />
+                </g>
+                <g
+   transform="matrix(1.04638,0,0,1.04638,26.5841,-68.2356)"
+   id="g3">
+                    <path
+   d="M106,85.714L107.567,83L108.433,83.5L106.866,86.214L110,86.214L110,87.214L106.866,87.214L108.433,89.928L107.567,90.428L106,87.714L104.433,90.428L103.567,89.928L105.134,87.214L102,87.214L102,86.214L105.134,86.214L103.567,83.5L104.433,83L106,85.714Z"
+   style="fill:#ffffff;fill-opacity:1"
+   id="path3" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
