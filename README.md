@@ -3,7 +3,7 @@
 ## Installation
 
 1. Download the latest release
-2. Merge the `resources` folder in:
+2. Merge the downloaded `resources` folder with the existing folder in:
 
 - Linux: `/opt/bitwig-studio` (requires `sudo` via Terminal)
 - macOS: `/Applications/Bitwig Studio.app/Contents/`
