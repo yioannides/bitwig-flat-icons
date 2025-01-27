@@ -3,7 +3,7 @@
 
 ## Installation
 
-1. Download the latest release
+1. Download the [latest release](https://github.com/yioannides/bitwig-flat-icons/releases)
 2. Merge the downloaded `resources` folder with the existing one in:
 
 - Linux: `/opt/bitwig-studio` (requires `sudo` via Terminal)
