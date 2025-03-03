@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="16"
+   height="15"
+   viewBox="0 0 16 15"
+   enable-background="new 0 0 15 15"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:serif="http://www.serif.com/"><metadata
+   id="metadata3238"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3236" />
+
+<g
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="g1"
+   transform="matrix(0.69702931,0,0,0.69702931,-1.4720884,-0.43960262)"><g
+     transform="translate(-63,-98)"
+     id="g5">
+        <g
+   transform="matrix(1.21053,0,0,1.21053,24.2632,43.5263)"
+   id="g4">
+            <rect
+   id="folder_closed"
+   x="32"
+   y="45"
+   width="19"
+   height="19"
+   style="fill:none" />
+            <g
+   id="folder_closed1"
+   serif:id="folder_closed">
+                <g
+   id="Folder-back"
+   serif:id="Folder back"
+   transform="matrix(0.826087,0,0,0.826087,7.21739,9.47826)">
+                    <path
+   id="path8"
+   style="fill:#000000;fill-opacity:0.602114"
+   d="m 35.999821,46.499838 c -0.663,0 -1.298572,0.26342 -1.767572,0.73242 -0.469,0.469 -0.73242,1.104572 -0.73242,1.767572 v 10.999966 c 0,0.663 0.26342,1.298573 0.73242,1.767573 0.469,0.469 1.104572,0.732419 1.767572,0.732419 h 10.999966 c 1.381,0 2.499993,-1.118992 2.499993,-2.499992 v -7.999975 c 0,-1.381 -1.118993,-2.499992 -2.499993,-2.499992 h -3.365224 c -0.593,0 -1.130089,-0.348623 -1.371089,-0.890623 l -0.279296,-0.624998 c -0.401,-0.902 -1.296196,-1.48437 -2.283196,-1.48437 z m 5.806623,2.312493 c 0.04013,0.09025 0.08685,0.175985 0.138672,0.257811 -0.05182,-0.08183 -0.09855,-0.167561 -0.138672,-0.257811 z m 1.533198,1.166012 c 0.09579,0.01414 0.194218,0.02148 0.292968,0.02148 -0.09875,0 -0.19718,-0.0073 -0.292968,-0.02148 z" />
+                    
+                </g>
+                <g
+   id="Folder-front"
+   serif:id="Folder front"
+   transform="matrix(0.826087,0,0,0.901186,-20.8696,13.834)">
+                    <path
+   id="path6"
+   style="fill:#000000;fill-opacity:1"
+   d="m 69.865095,40.541492 c -1.305,0 -2.365227,0.971124 -2.365227,2.168124 v 7.580379 c 0,1.197 1.060227,2.168124 2.365227,2.168124 h 12.532017 c 1.305,0 2.365227,-0.971124 2.365227,-2.168124 v -7.580379 c 0,-1.197 -1.060227,-2.168124 -2.365227,-2.168124 z" />
+                    
+                </g>
+            </g>
+        </g>
+    </g></g><g
+   id="master_track1"
+   serif:id="master_track"
+   transform="matrix(0.56024482,0,0,0.56024482,2.7819209,4.2416153)"
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0.397729;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+        <path
+   id="path3366"
+   d="M 3,10.5 1.45,5.114 c 0,0 2.109,1.003 3.111,1.479 C 4.852,6.732 5.202,6.624 5.364,6.344 5.757,5.667 6.47,4.437 6.963,3.587 7.074,3.395 7.279,3.277 7.5,3.277 c 0.221,0 0.426,0.118 0.537,0.31 0.493,0.85 1.206,2.08 1.599,2.757 0.162,0.28 0.512,0.388 0.803,0.249 C 11.441,6.117 13.55,5.114 13.55,5.114 L 12,10.5 H 3"
+   style="fill:#ffffff;fill-opacity:0.397729;fill-rule:nonzero" />
+        <rect
+   id="rect4136"
+   x="3"
+   y="11"
+   width="9"
+   height="1"
+   style="fill:#ffffff;fill-opacity:0.397729;fill-rule:nonzero" />
+    </g></svg>

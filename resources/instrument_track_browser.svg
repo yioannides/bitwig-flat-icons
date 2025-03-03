@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="21px"
+   height="19px"
+   viewBox="-1 0 21 19"
+   enable-background="new -1 0 21 19"
+   xml:space="preserve"
+   sodipodi:docname="instrument_track_browser.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs7"><inkscape:path-effect
+     effect="fillet_chamfer"
+     id="path-effect7"
+     is_visible="true"
+     lpeversion="1"
+     nodesatellites_param="F,0,0,1,0,0.8374582,0,1 @ F,0,1,1,0,0.8374582,0,1 @ F,0,1,1,0,0.8374582,0,1 @ F,0,1,1,0,0.8374582,0,1"
+     radius="0"
+     unit="px"
+     method="auto"
+     mode="F"
+     chamfer_steps="1"
+     flexible="false"
+     use_knot_distance="true"
+     apply_no_radius="true"
+     apply_with_radius="true"
+     only_selected="false"
+     hide_knots="false" /><inkscape:path-effect
+     effect="fillet_chamfer"
+     id="path-effect6"
+     is_visible="true"
+     lpeversion="1"
+     nodesatellites_param="F,0,1,1,0,0.83745819,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.83745819,0,1"
+     radius="0"
+     unit="px"
+     method="auto"
+     mode="F"
+     chamfer_steps="1"
+     flexible="false"
+     use_knot_distance="true"
+     apply_no_radius="true"
+     apply_with_radius="true"
+     only_selected="false"
+     hide_knots="false" /></defs><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="31.473684"
+   inkscape:cx="5.5919732"
+   inkscape:cy="8.8645485"
+   inkscape:window-width="2560"
+   inkscape:window-height="1403"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="9.4995"
+   y1="2.5"
+   x2="9.4995"
+   y2="17.5005">
+	<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop1" />
+	<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop2" />
+</linearGradient>
+
+
+
+
+<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="9.4995"
+   y1="2.5"
+   x2="9.4995"
+   y2="17.5005">
+	<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop6" />
+	<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop7" />
+</linearGradient>
+
+<path
+   id="rect6-6"
+   style="display:inline;fill:#7b7d86;fill-opacity:1;stroke-width:4;stroke-linecap:square;paint-order:markers stroke fill"
+   d="M 1.8374582,2 H 18.162542 A 0.8374582,0.8374582 45 0 1 19,2.8374582 V 17.162542 A 0.8374582,0.8374582 135 0 1 18.162542,18 H 1.8374582 A 0.8374582,0.8374582 45 0 1 1,17.162542 V 2.8374582 A 0.8374582,0.8374582 135 0 1 1.8374582,2 Z"
+   inkscape:path-effect="#path-effect7"
+   inkscape:original-d="M 1,2 H 19 V 18 H 1 Z" /><path
+   id="rect4"
+   style="fill:#ff925f;fill-opacity:1"
+   d="M 1.8374582,2 H 3.397157 V 18 H 1.8374582 A 0.83745819,0.83745819 45 0 1 1,17.162542 V 2.8374582 A 0.83745819,0.83745819 135 0 1 1.8374582,2 Z"
+   inkscape:path-effect="#path-effect6"
+   inkscape:original-d="M 1,2 H 3.397157 V 18 H 1 Z"
+   sodipodi:nodetypes="ccccc" /><g
+   id="g6"
+   transform="translate(0.50000033,0.16)"
+   style="fill:#ffffff;fill-opacity:1">
+	<g
+   id="g5"
+   style="fill:#ffffff;fill-opacity:1">
+		<polygon
+   fill="#999999"
+   points="16,15 16,4 14,4 14,10 13,10 13,15 "
+   id="polygon3"
+   style="fill:#ffffff;fill-opacity:1" />
+		<polygon
+   fill="#999999"
+   points="10,10 9,10 9,15 12,15 12,10 11,10 11,4 10,4 "
+   id="polygon4"
+   style="fill:#ffffff;fill-opacity:1" />
+		<polygon
+   fill="#999999"
+   points="5,15 8,15 8,10 7,10 7,4 5,4 "
+   id="polygon5"
+   style="fill:#ffffff;fill-opacity:1" />
+	</g>
+</g></svg>
